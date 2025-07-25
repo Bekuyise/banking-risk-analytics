@@ -1,6 +1,5 @@
-💳 Banking Risk Analytics 
+# 💳 Banking Risk Analytics 
 
-# 💳 Loan Risk Analytics Dashboard
 
 # 📘 Project Overview
 
