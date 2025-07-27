@@ -32,7 +32,7 @@ To build a data analytics solution that cleans, transforms, and visualizes custo
 | Reporting Layer      | Power BI (.pbix)          |
 
 
-#🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 
 <img width="586" height="325" alt="image" src="https://github.com/user-attachments/assets/bed31a09-828e-49f4-8c00-65b2f595cf9a" /> 
 <img width="596" height="327" alt="image" src="https://github.com/user-attachments/assets/da07499d-6433-47b4-a792-a8424dc964ce" />
