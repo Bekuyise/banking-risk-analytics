@@ -7,7 +7,9 @@ This project simulates a real-world use case in the banking and financial servic
 
 ## 🎯 Business Problem
 
-### A bank must evaluate loan applicants based on various risk factors such as income, engagement history, and advisor relationships. Challenges include:
+### A bank must evaluate loan applicants based on various risk factors such as income, engagement history, and advisor relationships. 
+
+### Challenges include:
 
 ❌ Lack of visibility into customer credit risk
 
