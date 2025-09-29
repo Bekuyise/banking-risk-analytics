@@ -1,23 +1,23 @@
-# 💳 Banking Risk Analytics 
+#  Banking Risk Analytics 
 
 
-# 📘 Project Overview
+#  Project Overview
 
 This project simulates a real-world use case in the banking and financial services sector, where data analytics is used to assess customer creditworthiness and minimize loan default risk. I built a complete end-to-end risk analytics solution using Power BI, Python, and SQL, enabling financial institutions to make informed, data-driven lending decisions.
 
-## 🎯 Business Problem
+##  Business Problem
 
 ### A bank must evaluate loan applicants based on various risk factors such as income, engagement history, and advisor relationships. 
 
 ### Challenges include:
 
-❌ Lack of visibility into customer credit risk
+ Lack of visibility into customer credit risk
 
-❌ Manual and inconsistent approval processes
+ Manual and inconsistent approval processes
 
-❌ Poor segmentation for targeting and risk profiling
+ Poor segmentation for targeting and risk profiling
 
-## 🎯 Project Objective
+##  Project Objective
 
 To build a data analytics solution that cleans, transforms, and visualizes customer and banking data to support risk profiling, improve loan approval processes, and reduce potential financial losses.
 
@@ -34,32 +34,32 @@ To build a data analytics solution that cleans, transforms, and visualizes custo
 | Reporting Layer      | Power BI (.pbix)          |
 
 
-# 🖼️ Dashboard Preview
+#  Dashboard Preview
 
 <img width="586" height="325" alt="image" src="https://github.com/user-attachments/assets/bed31a09-828e-49f4-8c00-65b2f595cf9a" /> 
 <img width="596" height="327" alt="image" src="https://github.com/user-attachments/assets/da07499d-6433-47b4-a792-a8424dc964ce" />
 <img width="582" height="328" alt="image" src="https://github.com/user-attachments/assets/29031cd8-e63b-42a1-b95b-5e791757e788" />
 
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 ### The final dashboard provides rich insights, including:
 
-🧍 Client segmentation based on estimated income bands
+ Client segmentation based on estimated income bands
 
-📅 Engagement duration with the bank
+ Engagement duration with the bank
 
-💰 Evaluation of fee structure and its impact on processing fees
+ Evaluation of fee structure and its impact on processing fees
 
-👥 Gender and advisor-based segmentation for risk profiling
+ Gender and advisor-based segmentation for risk profiling
 
-📈 Trend analysis over different time periods
+ Trend analysis over different time periods
 
-✅ Visual indicators for loan approval decisions
+ Visual indicators for loan approval decisions
 
 
 
-# 📈 Business Impact
+#  Business Impact
 
 This analytics solution improves the bank’s ability to:
 
