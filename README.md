@@ -45,17 +45,17 @@ To build a data analytics solution that cleans, transforms, and visualizes custo
 
 ### The final dashboard provides rich insights, including:
 
- Client segmentation based on estimated income bands
+   Client segmentation based on estimated income bands
 
- Engagement duration with the bank
+   Engagement duration with the bank
 
- Evaluation of fee structure and its impact on processing fees
+   Evaluation of fee structure and its impact on processing fees
 
- Gender and advisor-based segmentation for risk profiling
+   Gender and advisor-based segmentation for risk profiling
 
- Trend analysis over different time periods
+   Trend analysis over different time periods
 
- Visual indicators for loan approval decisions
+   Visual indicators for loan approval decisions
 
 
 
